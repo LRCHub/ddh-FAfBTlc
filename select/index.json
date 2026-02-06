@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Synchrogazer-Aufwachen Form-",
+  "base_artist": "水樹奈々",
+  "createdAt": "2026-02-06T10:40:43.366001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Synchrogazer (Aufwachen Form)",
+      "artist": "Nana Mizuki",
+      "has_synced": false,
+      "path": "select/01_Synchrogazer_(Aufwachen_Form)_Nana_Mizuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Synchrogazer -Aufwachen Form-",
+      "artist": "Mizuki Nana",
+      "has_synced": false,
+      "path": "select/02_Synchrogazer_-Aufwachen_Form-_Mizuki_Nana.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Synchrogazer -Aufwachen Form-",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/03_Synchrogazer_-Aufwachen_Form-_水樹奈々.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Synchrogazer -Aufwachen Form-",
+      "artist": "水樹 奈々",
+      "has_synced": false,
+      "path": "select/pl_01_Synchrogazer_-Aufwachen_Form-_水樹_奈々.txt"
+    }
+  ]
+}
